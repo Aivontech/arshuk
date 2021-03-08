@@ -1164,7 +1164,7 @@ p.comment-form-email, p.comment-form-author, p.comment-form-url {
 }
 @media screen and (max-width:430px) {
 	.background {
-			padding:100px 0;
+			padding:150px 0;
 	}
 	 .aboutbadge.black {
 			 margin:0px auto;
